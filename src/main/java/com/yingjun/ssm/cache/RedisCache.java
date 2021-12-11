@@ -21,7 +21,7 @@ import java.util.Set;
 public class RedisCache {
 	
 	
-	public final static String CAHCENAME="cache";//缓存名
+	public final static String CAHCENAME="cache";// 缓存名
 	public final static int CAHCETIME=60;//默认缓存时间
 
 	@Autowired
